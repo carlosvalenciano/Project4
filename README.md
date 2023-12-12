@@ -1,4 +1,4 @@
-#Project 4: Stock Market Predictions
+Project 4: Stock Market Predictions
 
 Table of Contents
 
