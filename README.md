@@ -1,6 +1,6 @@
-Project 4: Stock Market Predictions
+# Project 4: Stock Market Predictions
 
-Table of Contents
+## Table of Contents
 
 1.	Project Description
 2.	Team Members
@@ -15,45 +15,45 @@ Table of Contents
 11.	Contributing
 12.	License
 
-Project Description
+### Project Description
 
 This project focuses on predicting future stock values by training machine learning algorithms on historical data. The aim is to identify the best 5 stocks for a specified period, considering daily price changes and percentage fluctuations. Additionally, the project compares the prediction accuracy between Tensorflow (Keras library) and Scikit-Learn (Regression library).
 
-Team Members
+### Team Members
 
-Amanda Cantu
-Jamie Hutton
-Carlos Valenciano
-Adam Saenz
+1. Amanda Cantu
+2. Jamie Hutton
+3. Carlos Valenciano
+4. Adam Saenz
 
-Data Sources
+### Data Sources
 
-NASDAQ Institutional Investors Data
-Module 2 Dataset
+1. NASDAQ Institutional Investors Data
+2. Module 2 Dataset
 
-Machine Learning Libraries
+### Machine Learning Libraries
 
-Tensorflow: Keras library
-Scikit-Learn: Regression library
+1. Tensorflow: Keras library
+2. Scikit-Learn: Regression library
 
-Visualization Tools
+### Visualization Tools
 
-Tableau
-Line graphs displaying predicted future values
+1. Tableau
+2. Line graphs displaying predicted future values
 
-Database
+### Database
 
-SQL for structured data storage and retrieval
-PySpark for handling large-scale distributed datasets
+1. SQL for structured data storage and retrieval
+2. PySpark for handling large-scale distributed datasets
 
-Project Structure
+### Project Structure
 
-•	data: Contains datasets used in the project.
-•	notebooks: Jupyter notebooks for data exploration, algorithm training, and analysis.
-•	scripts: Python scripts for specific tasks.
-•	visualizations: Output visualizations and graphs.
+1. data: Contains datasets used in the project.
+2. notebooks: Jupyter notebooks for data exploration, algorithm training, and analysis.
+3. scripts: Python scripts for specific tasks.
+4. visualizations: Output visualizations and graphs.
 
-Setup Instructions
+### Setup Instructions
 
 1.	Clone the repository.
 bashCopy code
@@ -63,25 +63,25 @@ bashCopy code
 3.	Set up the database (provide specific instructions if necessary). 
 bashCopy code
 
-Usage
+### Usage
 
-•	Run Jupyter notebooks in the notebooks directory for step-by-step analysis.
-•	Execute Python scripts in the scripts directory for specific tasks.
-•	Explore visualizations in the visualizations directory.
+1. Run Jupyter notebooks in the notebooks directory for step-by-step analysis.
+2. Execute Python scripts in the scripts directory for specific tasks.
+3. Explore visualizations in the visualizations directory.
 
-Expected Outcome
+### Expected Outcome
 
-•	A trained algorithm capable of predicting future stock values.
-•	Comparitive analysis showcasing the accuracy of Tensorflow and Scikit-Learn.
-•	Comparitive visualizations aiding in understanding and decision-making.
+1. A trained algorithm capable of predicting future stock values.
+2. Comparitive analysis showcasing the accuracy of Tensorflow and Scikit-Learn.
+3. Comparitive visualizations aiding in understanding and decision-making.
 
-Contributing
+### Contributing
 
-•	Fork the repository.
-•	Create a new branch.
-•	Make your contributions.
-•	Create a pull request.
+1. Fork the repository.
+2. Create a new branch.
+3. Make your contributions.
+4. Create a pull request.
 
-License
+### License
 
 This process is licensed under the MIT License.
