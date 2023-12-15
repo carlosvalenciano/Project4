@@ -67,6 +67,7 @@ This project focuses on predicting future stock values by training machine learn
 
 1. On the logistic regression, 'Up' is 46% and 'Down' is 51% so there was roughly 50/50 chance of META increase or decreasing.
 2. Yearly change between 2022 was negative compared to 2023, where it was positive.
+3. On 12/12/2023, META prediction for upcoming 3 days ($323.08, $323.6, $321.54). This is a bias account because it was only the daily data through one source, whereas if we could have done hourly data points through multiple source.
 
 ### License
 
