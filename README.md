@@ -43,8 +43,7 @@ This project focuses on predicting future stock values by training machine learn
 
 ### Database
 
-1. SQL for structured data storage and retrieval
-2. PySpark for handling large-scale distributed datasets
+1. PySpark (Spark SQL) for handling large-scale distributed datasets
 
 ### Project Structure
 
