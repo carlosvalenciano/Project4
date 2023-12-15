@@ -34,7 +34,7 @@ This project focuses on predicting future stock values by training machine learn
 ### Machine Learning Libraries
 
 1. Tensorflow: Keras library
-2. Scikit-Learn: Regression library
+2. Scikit-Learn: Regression Logistics library
 
 ### Visualization Tools
 
