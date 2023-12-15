@@ -83,3 +83,6 @@ bashCopy code
 ### License
 
 This process is licensed under the MIT License.
+
+### Sources 
+https://medium.com/the-handbook-of-coding-in-finance/predict-stock-movement-using-logistic-regression-in-python-8e7ddfa60b33
