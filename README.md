@@ -28,7 +28,7 @@ This project focuses on predicting future stock values by training machine learn
 
 ### Data Sources
 
-1. NASDAQ Institutional Investors Data
+1. Yahoo Finance
 2. Module 2 Dataset
 
 ### Machine Learning Libraries
