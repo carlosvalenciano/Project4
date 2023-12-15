@@ -39,7 +39,7 @@ This project focuses on predicting future stock values by training machine learn
 ### Visualization Tools
 
 1. Tableau- [Dashboard](https://public.tableau.com/app/profile/carlos.valenciano/viz/Stock_Prediction_Visualizations_DB/Dashboard1 "Dashboard"), [Direction for Logistic Regression](https://public.tableau.com/app/profile/carlos.valenciano/viz/LogisticRegression0623-1223/LogisticDirection0623-1223 "Direction for Logistic Regresasion")
-2. Line graphs displaying predicted future values
+2. Matplotlib - Line graphs displaying predicted future values
 
 ### Database
 
