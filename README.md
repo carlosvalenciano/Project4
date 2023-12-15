@@ -48,19 +48,9 @@ This project focuses on predicting future stock values by training machine learn
 ### Project Structure
 
 1. data: Contains datasets used in the project.
-2. notebooks: Jupyter notebooks for data exploration, algorithm training, and analysis.
+2. notebooks: Google Colab for data exploration, algorithm training, and analysis.
 3. scripts: Python scripts for specific tasks.
 4. visualizations: Output visualizations and graphs.
-
-### Setup Instructions
-
-1.	Clone the repository.
-bashCopy code
- clone
-2.	Install dependencies.
-bashCopy code
-3.	Set up the database (provide specific instructions if necessary). 
-bashCopy code
 
 ### Usage
 
@@ -73,12 +63,10 @@ bashCopy code
 2. Comparitive analysis showcasing the accuracy of Tensorflow and Scikit-Learn.
 3. Comparitive visualizations aiding in understanding and decision-making.
 
-### Contributing
+### Conclusion
 
-1. Fork the repository.
-2. Create a new branch.
-3. Make your contributions.
-4. Create a pull request.
+1. On the logistic regression, 'Up' is 46% and 'Down' is 51% so there was roughly 50/50 chance of META increase or decreasing.
+2. Yearly change between 2022 was negative compared to 2023, where it was positive.
 
 ### License
 
