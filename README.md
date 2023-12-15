@@ -64,9 +64,8 @@ bashCopy code
 
 ### Usage
 
-1. Run Jupyter notebooks in the notebooks directory for step-by-step analysis.
-2. Execute Python scripts in the scripts directory for specific tasks.
-3. Explore visualizations in the visualizations directory.
+1. Execute Python scripts in the scripts directory for specific tasks.
+2. Explore visualizations in the visualizations directory.
 
 ### Expected Outcome
 
